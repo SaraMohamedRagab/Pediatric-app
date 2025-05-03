@@ -1,69 +1,86 @@
-# Pediatric App
+# 👶 Pediatric App
 
-## 🚀 Getting Started
+A pediatric patient management web application developed as part of a **group project** for the **OMSCS (Online Master of Science in Computer Science)** program.
 
-### Prerequisites
+🚀 **[Live Demo on Netlify](https://pediatricapp-team16.netlify.app/)**
 
-Make sure you have the following installed:
+---
 
-- **Node.js** (Latest LTS version recommended)
-- **npm** (Comes with Node.js)
+## 📸 Screenshots
 
-### Installation
 
-Clone the repository and install dependencies:
 
-```sh
-# Clone the repository
-git clone https://github.gatech.edu/smohamed42/pediatricApp-Team16.git
+![Dashboard](1.png)
+![User Management](3.png)
+![Patient Info](4.png)
+![Vaccination](5.png)
 
-# Install dependencies
-npm install
-```
-
-### Running the Project
-
-Start the development server:
-
-```sh
-npm run dev
-```
-
-## 📌 Available Pages
-
-| Path         | Description          |
-| ------------ | -------------------- |
-| `/`          | User Management Page |
-| `/dashboard` | Dashboard Page       |
-| `/info`      | Patient Info Page    |
+---
 
 ## 🛠 Technologies Used
 
 - **React** (with TypeScript)
 - **Material UI (MUI)** for UI components
-- **React Router** for navigation
-- **Vite/Webpack** for development
+- **React Router** for routing
+- **Vite/Webpack** for development and bundling
 
-## 📖 Project Structure
+---
 
-```
-📂 src
- ├── 📂 components       # Reusable UI components
- ├── 📂 layouts          # Page layouts
- ├── 📂 pages            # Application pages
- ├── 📂 routes           # Application routes
- ├── 📂 hooks            # Custom React hooks
- ├── 📂 utils            # Utility functions
- ├── 📜 main.tsx         # Entry point
- └── 📜 app.tsx          # Main application file
-```
+## 📁 Project Structure
 
-## 📝 Notes
+src/
+├── components/ # Reusable UI components
+├── layouts/ # Page layouts
+├── pages/ # Main application pages
+├── routes/ # Routing configuration
+├── hooks/ # Custom React hooks
+├── utils/ # Helper functions
+├── main.tsx # Entry point
+└── app.tsx # Main app logic
 
+yaml
+Copy
+Edit
 
-## 📬 Contact
+---
 
-For any issues, feel free to open an issue or reach out!
+## 📌 Available Pages
 
-Happy coding! 🚀
+| Path         | Description             |
+|--------------|-------------------------|
+| `/`          | User Management Page    |
+| `/dashboard` | Dashboard Page          |
+| `/info`      | Patient Info Page       |
 
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (LTS version)
+- npm (comes with Node.js)
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.gatech.edu/smohamed42/pediatricApp-Team16.git
+
+# Navigate to the project
+cd pediatricApp-Team16
+
+# Install dependencies
+npm install
+Running the App
+bash
+Copy
+Edit
+npm run dev
+📝 Notes
+This application was developed collaboratively by Team 16 as part of the OMSCS curriculum.
+
+📬 Contact
+Feel free to reach out or open an issue if you encounter any problems or have suggestions!
+
+🎉 Thank you for visiting!
