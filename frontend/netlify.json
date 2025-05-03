@@ -1,0 +1,10 @@
+{
+  "site_id": "f4fda1fd-6b97-49a6-9ad7-f80126171234",
+  "site_name": "pediatricapp-team16",
+  "deploy_id": "67e79c742e3bdd9bd55dc8d0",
+  "deploy_url": "https://67e79c742e3bdd9bd55dc8d0--pediatricapp-team16.netlify.app",
+  "logs": "https://app.netlify.com/sites/pediatricapp-team16/deploys/67e79c742e3bdd9bd55dc8d0",
+  "function_logs": "https://app.netlify.com/sites/pediatricapp-team16/logs/functions",
+  "edge_function_logs": "https://app.netlify.com/sites/pediatricapp-team16/logs/edge-functions",
+  "url": "https://pediatricapp-team16.netlify.app"
+}
