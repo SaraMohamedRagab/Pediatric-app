@@ -1,6 +1,6 @@
 # 👶 Pediatric App
 
-A pediatric patient management web application (font-end part) developed as part of a **group project** for the **OMSCS (Online Master of Science in Computer Science)** program.
+A pediatric patient management web application (front-end part) developed as part of a **group project** for the **OMSCS (Online Master of Science in Computer Science)** program.
 
 🚀 **[Live Demo on Netlify](https://pediatricapp-team16.netlify.app/)**
 
